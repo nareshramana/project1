@@ -1,0 +1,24 @@
+open gitbash
+
+go to present working directory where to want to work------pwd
+
+
+clone the respository "url"
+
+
+create a new file and save it in the folder or else directory
+
+
+check the folder using ls
+
+add that file to git using ----git add filename
+
+
+git commit -m"description in detail about changes made"
+
+
+git push origin HEAD
+
+
+
+
